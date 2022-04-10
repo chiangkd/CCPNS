@@ -101,6 +101,7 @@ IFTTT KEY 連接成功之後右下角的綠色區塊可以設定提醒行情(高
 ![](https://i.imgur.com/smNKhhC.png)
 
 就會有提醒拉~~
+
 ![](https://i.imgur.com/nWgnx8Z.png)
 
 

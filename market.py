@@ -8,7 +8,6 @@ from datetime import datetime, time
 from talib import abstract
 import matplotlib.pyplot as plt
 #import mpl_finance as mpf  #dismiss in 2020
-import os
 import mplfinance as mpf    #upgrade mode in 2020
 # # DataFrame Setting
 pd.set_option('display.max_columns', None)

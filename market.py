@@ -1,4 +1,7 @@
-# %%
+# @file market.py
+# @author Kuan-Di Jiang
+# @brief Connect web API and data pre-processing 
+
 from numpy import histogram, shares_memory
 import pandas as pd
 # from pandas.io.formats import style

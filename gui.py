@@ -1,4 +1,7 @@
-# %%
+# @file gui.py
+# @author Kuan-Di Jiang
+# @brief Program interface
+
 import os
 import tkinter as tk
 from tkinter import Label, ttk
